@@ -18,4 +18,4 @@ searchMultiple:{campo1:consulta1, campo2:consulta2}
 
 **Free Software, Hell Yeah!**
 
-[Exemplo de Uso]: <example\usingSearchMultiple.html>
+[Exemplo de Uso]: <example/usingSearchMultiple.html>
