@@ -1,0 +1,11 @@
+{
+  "name": "angular-search-multiple",
+  "version": "0.0.1",
+  "description": "",
+  "engines": {},
+  "dependencies": {
+    "angular" : ">=0.0.1"
+  }
+}
+
+
